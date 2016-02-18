@@ -1,0 +1,19 @@
+{
+  "name": "mocha-diff-example",
+  "version": "1.0.0",
+  "description": "Example of mocha's expected/actual diffs",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosston/mocha-diff-example.git"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "homepage": "https://github.com/rosston/mocha-diff-example",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}

@@ -1,2 +1,4 @@
 # mocha-diff-example
-Example of mocha's expected/actual diffs
+
+Run `npm install` and `npm test` to see examples of mocha's displaying of
+expected/actual diffs. Should work fine on any node version >= 0.10.
